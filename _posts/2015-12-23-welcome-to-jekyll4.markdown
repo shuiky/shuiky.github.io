@@ -1,4 +1,4 @@
-2015-12-23-welcome-to-jekyll3.markdown---
+---
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-12-23 14:29:26 +0900
